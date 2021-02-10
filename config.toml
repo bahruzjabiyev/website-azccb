@@ -1,4 +1,4 @@
-baseurl         = ""
+baseurl         = "http://azccb.org"
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
