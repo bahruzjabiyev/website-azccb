@@ -2,7 +2,7 @@
 title: "İncəsənət Müsabiqəsi"
 date: 2021-02-02T20:43:47-05:00
 draft: false
-image: "title-new.jpg"
+image: "landscape.png"
 tags: ["event"]
 slug: art
 summary: "\"Qürbətdə Vətən\" incəsənət müsabiqəsi iki fərqli yaş qrupundakı uşaqlar arasında keçiriləcək. Müsabiqədə şeir, ifa və çalğl olmaq üzrə üç fərqli kateqoriya var. Hər kateqoriya üzrə münsiflər..."
