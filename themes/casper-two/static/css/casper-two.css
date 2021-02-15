@@ -1,6 +1,5 @@
 body {
-/*	font-family: museosans,"Luxi sans","Lucida Grande",Lucida,"Lucida Sans Unicode",sans-serif;*/
-	font-family: Trebuchet MS, serif;
+	font-family: 'Work Sans', sans-serif;
 }
 
 .pagination {
@@ -61,6 +60,11 @@ body {
 @media (min-width:641px)  { 
 /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
 	background-image: url("landscape-641.png");
+
+}
+@media (min-width:801px)  { 
+/* tablet, landscape iPad, lo-res laptops ands desktops */ 
+	background-image: url("landscape-801.png");
 
 }
 @media (min-width:961px)  { 
