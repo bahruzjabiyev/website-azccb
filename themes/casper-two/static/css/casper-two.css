@@ -48,6 +48,34 @@ body {
 .nav-current a:visited {
     color: yellow;
 }
+@media (min-width:320px)  { 
+/* smartphones, iPhone, portrait 480x320 phones */ 
+	background-image: url("landscape-320.png");
+
+}
+@media (min-width:481px)  { 
+/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+	background-image: url("landscape-481.png");
+
+}
+@media (min-width:641px)  { 
+/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+	background-image: url("landscape-641.png");
+
+}
+@media (min-width:961px)  { 
+/* tablet, landscape iPad, lo-res laptops ands desktops */ 
+	background-image: url("landscape-961.png");
+
+}
+@media (min-width:1025px) { 
+/* big landscape tablets, laptops, and desktops */ 
+	background-image: url("landscape-1025.png");
+}
+@media (min-width:1281px) { 
+/* hi-res laptops and desktops */ 
+	background-image: url("landscape-1281.png");
+}
 
 @media (min-width: 900px) {
     .ctsingle .post-feed {
