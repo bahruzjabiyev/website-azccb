@@ -24,7 +24,7 @@
               {{ if .Description }} 
                 <p>{{ .Description | markdownify }}</p>
               {{else}}
-                <p style="font-family: 'Work Sans', sans-serif;">{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} </p>
+                <p style="font-family: 'Work Sans', sans-serif;">{{ .Summary | plainify | safeHTML }}{{ if .Truncated }} ... {{end}} <span style="color: #0066CC">see more</span></p>
               {{end}}
           </section>
       </a>
