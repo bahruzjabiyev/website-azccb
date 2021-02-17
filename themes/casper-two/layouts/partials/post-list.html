@@ -2,50 +2,9 @@
 {{ range $paginator.Pages }}
 
 <article class="post-card post"> 
-    {{if .Params.image320}}
-	<style scoped>
-		.on-the-fly-behavior {
-		    background-image: url('particular_ad_small.png'); 
-		}
-		@media (min-width: 320px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image320}});
-		    }
-		}
-		@media (min-width: 481px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image481}});
-		    }
-		}
-		@media (min-width: 641px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image641}});
-		    }
-		}
-		@media (min-width: 801px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image801}});
-		    }
-		}
-		@media (min-width: 961px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image961}});
-		    }
-		}
-		@media (min-width: 1025px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image1025}});
-		    }
-		}
-		@media (min-width: 1281px) {
-		    .on-the-fly-behavior {   
-		        background-image: url({{.Params.image1281}});
-		    }
-		}
-		</style>
-
+    {{if .Params.image}}
     <a class="post-card-image-link" href="/art">
-      <div class="post-card-image list-item-image on-the-fly-behavior" style="background-size: contain;"></div>
+      <div class="post-card-image list-item-image" style="background-size: contain; background-image: url({{.Params.image}});"></div>
     </a>
     {{else}}
     <a class="post-card-image-link" href="/art">
