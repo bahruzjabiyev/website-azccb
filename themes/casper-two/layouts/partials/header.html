@@ -5,7 +5,44 @@
       <!--<h1 class="site-title">{{ if .Site.Params.logo }}
         <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" style="width: 100%; height:100%"/>
       {{else}} {{ .Site.Params.title }} {{end}} </h1>-->
-        <img class="site-logo" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}" style="transform: scale(4)"/>
+		<style scoped>
+               @media (min-width: 320px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(1)
+                   }
+               }
+               @media (min-width: 481px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(1)
+                   }
+               }
+               @media (min-width: 641px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(2)
+                   }
+               }
+               @media (min-width: 801px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(2)
+                   }
+               }
+               @media (min-width: 961px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(3)
+                   }
+               }
+               @media (min-width: 1025px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(3)
+                   }
+               }
+               @media (min-width: 1281px) {
+                   .on-the-fly-behavior {   
+                       transform: scale(4)
+                   }
+               }
+               </style>
+        <img class="site-logo on-the-fly-behavior" src="{{ .Site.Params.logo  | absURL}}" alt="{{ .Site.Params.title }}"/>
         <!--<h2 class="site-description">{{ .Site.Params.subtitle }} </h2>-->
     </div>
 
