@@ -15,7 +15,7 @@ summary: "\"Qürbətdə Vətən\" incəsənət müsabiqəsi iki fərqli yaş qru
 
 <h2 style="font-family: 'Work Sans', sans-serif">Müsabiqəyə İştirak</h2>
 <p>
-Övladınızın müsabiqədə iştirakı üçün bu <a href="https://forms.gle/WCWX2z3SwdpdaA2YA" target="_blank" style="color: #0066CC;">keçiddən</a> qeydiyyatdan keçin. Qaliblər 15-20 Mart tarixləri arasında təyin ediləcək. 15 Marta qədər övladınızın dediyi şeiri, oxuduğu mahnını yaxud da çalğı aləti ilə ifasını videoya çəkərək bu <a href="/art" target="https://forms.gle/tGgKsRPDDN9ceiMw8" style="color: #0066CC;">keçiddən</a> bizə göndərin.
+Övladınızın müsabiqədə iştirakı üçün bu <a href="https://forms.gle/WCWX2z3SwdpdaA2YA" target="_blank" style="color: #0066CC;">keçiddən</a> qeydiyyatdan keçin. Qaliblər 15-20 Mart tarixləri arasında təyin ediləcək. 15 Marta qədər övladınızın dediyi şeiri, oxuduğu mahnını yaxud da çalğı aləti ilə ifasını videoya çəkərək bu <a href="https://forms.gle/tGgKsRPDDN9ceiMw8" target="_blank" style="color: #0066CC;">keçiddən</a> bizə göndərin.
 </p>
 
 <h2 style="font-family: 'Work Sans', sans-serif">Təqdimat Gecəsi</h2>
