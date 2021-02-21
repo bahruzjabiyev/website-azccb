@@ -10,20 +10,20 @@ paginate        = 6
   subtitle    = "The website of AZCCB -- Azerbaijan Cultural Center Boston"
 
   cover       = "sky.jpeg"
-  description = "Here is a description of your site."
+  description = "The website of AZCCB -- Azerbaijan Cultural Center Boston"
   metaDescription = ""
   googleAnalytics = ""
   customCSS = []
   RSSLink = ""
 
   twitterName = "Azccboston"
-  fbName = "test"
-  youtubeName = "test"
+  fbName = "Azccboston"
+  youtubeName = "Azccboston"
 
   logo = "logo-azccb.png"
   orgName = "AZCC Boston"
-  orgWebsite = "https://www.telematika.org"
-  orgDescription = "Here is a description placeholder for your org"
+  orgWebsite = "https://azccb.org"
+  orgDescription = "Azerbaijan Cultural Center Boston"
 
   pageNotFoundTitle = "404 - Page not found"
 
