@@ -15,11 +15,11 @@ summary: "\"Qürbətdə Vətən\" incəsənət müsabiqəsi iki fərqli yaş qru
 
 <h2 style="font-family: 'Work Sans', sans-serif">Müsabiqəyə İştirak</h2>
 <p>
-Övladınızın müsabiqədə iştirakı üçün bu <a href="/art" style="color: #0066CC;">keçiddən</a> 2-3 suala cavab verərək qeydiyyatdan keçin. Qaliblər 15-20 Mart tarixləri arasında təyin ediləcək. 15 Marta qədər övladınızın dediyi şeiri, oxuduğu mahnını yaxud da çalğı aləti ilə ifasını videoya çəkərək bu <a href="/art" style="color: #0066CC;">keçiddən</a> bizə göndərin.
+Övladınızın müsabiqədə iştirakı üçün bu <a href="https://forms.gle/WCWX2z3SwdpdaA2YA" target="_blank" style="color: #0066CC;">keçiddən</a> qeydiyyatdan keçin. Qaliblər 15-20 Mart tarixləri arasında təyin ediləcək. 15 Marta qədər övladınızın dediyi şeiri, oxuduğu mahnını yaxud da çalğı aləti ilə ifasını videoya çəkərək bu <a href="/art" target="_blank" style="color: #0066CC;">keçiddən</a> bizə göndərin.
 </p>
 
 <h2 style="font-family: 'Work Sans', sans-serif">Təqdimat Gecəsi</h2>
 <p>
-Qaliblər 30 Mart tarixində EST 7pm-də "Təqdimat Gecəsi" proqramında elan olunacaq. Həmin proqramda qaliblərin çıxışını birgə izləyə biləcəyik. Proqram onlayn olaraq keçiriləcək. Bu <a href="/art" style="color: #0066CC;">keçiddən</a> təqdimat gecəsinə qoşula bilərsiniz.   
+Qaliblər 30 Mart tarixində EST 7pm-də "Təqdimat Gecəsi" proqramında elan olunacaq. Həmin proqramda qaliblərin çıxışını birgə izləyə biləcəyik. Proqram onlayn olaraq keçiriləcək. Bu <a href="/art" target="_blank" style="color: #0066CC;">keçiddən</a> təqdimat gecəsinə qoşula bilərsiniz.   
 </p>
 </div>
